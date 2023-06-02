@@ -25,7 +25,7 @@ Desarrollado con fines didácticos para enseñar conceptos de RL, ML, AI y contr
 
 
 ## Versiones
-|                     | Estabilidad          | Facilidad de Armado  | Requiere I3D | Tiempo de [I3D](#configuración-de-impresión)| Plano de Impresión 3D| Foto de la versión                                 |
+|                     | Estabilidad          | Facilidad de Armado  | Requiere I3D | Tiempo de [I3D](#configuración-de-impresión)|   de Impresión 3D| Foto de la versión                                 |
 |:-------------------:|:--------------------:|:--------------------:|--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
 | V 0.7 (Recomendado) | :star: :star: :star: | :star: :star: :star: | SI           | <ul style="list-style-type:none;"> <li>  Baterias 47m </li> <li> Cuerpo 2:36 h </li> </ul>                                                                                                       | <A HREF="https://github.com/AaronLoz/balancio-kit/tree/RL_1/Planos%20de%20Impresi%C3%B3n%203D/Version%200.7"> Versión 0.7 I3D</A>      | <img src="resources/Balancio_0.71.jpg" width="70"> |
 | V 0.6 AKA:Wall-e    | :star: :star: :star: | :star:               | SI           | <ul style="list-style-type:none;"> <li> C_Inferior 5:25h </li> <li> C_Superior 5:11h </li> <li>P_inferior 58m</li> <li>P_superior 55m</li> <li> Cabeza 3:19 h </li> </ul> | <A HREF="https://github.com/AaronLoz/balancio-kit/tree/RL_1/Planos%20de%20Impresi%C3%B3n%203D/Versi%C3%B3n%200.6"> Versión 0.6 I3D</A> | <img src="resources/Balancio_0.5.jpg" width="60">  |
@@ -283,6 +283,7 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 </details> 
 
 ---
+## How To / Armado
 ## TODO
 
 - [x] initial commit
