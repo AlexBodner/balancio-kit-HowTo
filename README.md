@@ -366,7 +366,7 @@ Texto
 Conexiones entre ESP y Puente H
 
 <p align="center">
-    <img src="how_to_photos/Paso10_ESP_Puente.png" >
+    <img src="how_to_photos/Paso10_ESP_Puente.png" width="800">
 </p>
 
 Conexiones entre IMU y ESP
