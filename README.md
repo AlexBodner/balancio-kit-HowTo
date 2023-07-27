@@ -296,6 +296,7 @@ positivo (rojo) y a derecha el negativo.
 
 Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que estar por arriba del negro y del lado derecho al reves.
 </details>  
+
 ## TODO
 
 - [x] initial commit
