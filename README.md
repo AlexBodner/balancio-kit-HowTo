@@ -285,7 +285,7 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 ---
 ## How To / Armado
 
-#### Paso 1
+### Paso 1
 
 Conectamos los cables al servo para después encajarlos y conectarlos. 
 
