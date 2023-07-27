@@ -311,9 +311,13 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 
 ### Paso 2 - Servomotores al Puente H
 
+Una vez insertados los servomotores y el puente H en sus lugares correspondientes dentro del cuerpo del balancio, procedemos a colocar los cables que colocamos anteriormente en los servomotores en las borneras correspondientes del puente H. 
+
 <p align="center">
     <img src="how_to_photos/diagrama-Paso 2.png" width="600">
 </p>
+
+Es importante respetar las conexiones mostradas en el esquema para garantizar que los servomotores giren en el mismo sentido y así garantizar que el balancio se desplace de manera correcta. 
 
 ### Paso 3 - Cableado de portabaterias
 
