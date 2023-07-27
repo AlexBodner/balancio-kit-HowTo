@@ -354,19 +354,25 @@ Procedemos a insertar el switch en la ranura correspondiente del la estructura d
 <p align="center">
     <img src="how_to_photos/imagen-Paso6.jpg" width="500">
 </p>
-
+<p align="center">
+    <img src="how_to_photos/diagrama-Paso 7.png" width="400">
+</p>
 
 ### Paso 7 - Conexiones entre BMS y portapilas
 
 Antes de tratar de unir el cable correspondiente de los portabaterías  con las terminales B+ y B- del BMS FCD-2S-2, se recomienda precalentar ambas terminales con el soldador de estaño y estañar los cables antes de realizar las conexiones.
 
-
-<p align="center">
-    <img src="how_to_photos/diagrama-Paso 7.png" width="400">
-</p>
+***Observaciones:***
+- En violeta marcamos el cable que extendimos en el paso 3.
+- Recomendamos usar los cables Dupont para las conexiones al ESP e IMU. En este paso es la marcada en amarillo.
 
 <p align="center">
     <img src="how_to_photos/imagen-Paso7.jpg" width="500">
+</p>
+
+
+<p align="center">
+    <img src="how_to_photos/diagrama-Paso 8.png" width="600">
 </p>
 
 
@@ -374,12 +380,6 @@ Antes de tratar de unir el cable correspondiente de los portabaterías  con las 
 
 Texto
 
-***Observaciones:***
-- En violeta marcamos el cable que extendimos en el paso 3.
-- Recomendamos usar los cables Dupont para las conexiones al ESP e IMU.
-<p align="center">
-    <img src="how_to_photos/diagrama-Paso 8.png" width="600">
-</p>
 
 
 ### Paso 9 - Titulo
