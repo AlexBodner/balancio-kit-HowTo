@@ -285,14 +285,14 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 ---
 ## How To / Armado
 
-### Paso 1
+#### Paso 1
 
-    Conectamos los cables al servo para después encajarlos y conectarlos. 
-    
-    ¿Cómo me doy cuenta para que lado tiene que mirar? Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y conectamos a izquierda el     
-    positivo (rojo) y a derecha el negativo. 
-    
-    Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que estar por arriba del negro y del lado derecho al reves.
+Conectamos los cables al servo para después encajarlos y conectarlos. 
+
+¿Cómo me doy cuenta para que lado tiene que mirar? Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y conectamos a izquierda el     
+positivo (rojo) y a derecha el negativo. 
+
+Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que estar por arriba del negro y del lado derecho al reves.
 
 ## TODO
 
