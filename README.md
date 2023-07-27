@@ -308,7 +308,7 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 ### Paso 2 - Servomotores al Puente H
 
 <p align="center">
-    <img src="resources/env_anaconda.png" width="500">
+    <img src="how_to_photos/diagrama-Paso 2.png" width="500">
 </p>
 
 ### Paso 3 - Cableado de portabaterias
@@ -343,6 +343,37 @@ Procedemos a insertar el switch en la ranura correspondiente del la estructura d
 ### Paso 7 - Conexiones entre BMS y portapilas
 
 Antes de tratar de unir el cable correspondiente de los portabaterías  con las terminales B+ y B- del BMS FCD-2S-2, se recomienda precalentar ambas terminales con el soldador de estaño y estañar los cables antes de realizar las conexiones.
+
+<p align="center">
+    <img src="how_to_photos/diagrama-Paso 7.png" width="500">
+</p>
+
+### Paso 8 - Titulo
+
+Texto
+
+<p align="center">
+    <img src="how_to_photos/diagrama-Paso 8.png" width="500">
+</p>
+
+### Paso 9 - Titulo
+
+Texto
+
+### Paso 10 - Titulo
+
+Texto
+Conexiones entre ESP y Puente H
+
+<p align="center">
+    <img src="how_to_photos/Paso10_ESP_Puente.png" width="500">
+</p>
+
+Conexiones entre IMU y ESP
+
+<p align="center">
+    <img src="how_to_photos/Paso10_IMUESP.png" width="500">
+</p>
 
 </details>  
 
