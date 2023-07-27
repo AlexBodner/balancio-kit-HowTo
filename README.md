@@ -283,10 +283,12 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 </details> 
 
 ---
-<details open>
-    
- ## <summary>How To / Armado </summary> 
 
+    
+## How To / Armado 
+
+<details open>
+<summary>Pasos</summary>
 
 ### Paso 1 
 
