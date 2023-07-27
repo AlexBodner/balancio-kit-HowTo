@@ -305,19 +305,13 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
     <img src="how_to_photos/imagen-Paso1.jpg" width="500">
 </p>
 
+
+### Paso 2 - Insertar IMU
+
+En este paso insertamos la IMU en su ranura correspondiente, la cual se encuentra en la parte inferior del cuerpo del Balancio. Marcamos esto en la imágen a continuación. Hay que insertarla deslizandola lateralmente, lo que puede resultar difícil en un principio, por lo que si no desliza recomendamos lijar la zona. 
 <p align="center">
-    <img src="how_to_photos/imagen2-Paso1.jpg" width="500">
+    <img src="how_to_photos/IMU.png" width="500">
 </p>
-
-### Paso 2 - Servomotores al Puente H
-
-Una vez insertados los servomotores y el puente H en sus lugares correspondientes dentro del cuerpo del balancio, procedemos a colocar los cables que colocamos anteriormente en los servomotores en las borneras correspondientes del puente H. 
-
-<p align="center">
-    <img src="how_to_photos/diagrama-Paso 2.png" width="600">
-</p>
-
-Es importante respetar las conexiones mostradas en el esquema para garantizar que los servomotores giren en el mismo sentido y así garantizar que el balancio se desplace de manera correcta. 
 
 ### Paso 3 - Cableado de portabaterias
 
@@ -382,9 +376,22 @@ Antes de tratar de unir el cable correspondiente de los portabaterías  con las 
 
 ### Paso 8 - Conexión BMS y Switch a Puente H
 
-Ahora vamos a conectar donde corresponden los cables que quedaron sueltos. Estos son el P- del BMS y la conexión entre el Switch y el Puente H (12V).
+Insertamos el puente H como se ve en la foto (con la parte negra hacia arriba) y vamos a conectar donde corresponden los cables que quedaron sueltos. Estos son el P- del BMS y la conexión entre el Switch y el Puente H (12V).
 
-### Paso 9- Titulo
+### Paso 9 - Servomotores al Puente H
+
+Una vez insertados los servomotores y el puente H en sus lugares correspondientes dentro del cuerpo del balancio, procedemos a colocar los cables que colocamos anteriormente en los servomotores en las borneras correspondientes del puente H. 
+
+***Observacion:*** En la foto el Puente H se encuentra al revés. La parte negra tiene que mirar para arriba. 
+<p align="center">
+    <img src="how_to_photos/imagen2-Paso1.jpg" width="500">
+</p>
+
+<p align="center">
+    <img src="how_to_photos/diagrama-Paso 2.png" width="600">
+</p>
+
+### Paso 10- Titulo
 
 <p align="center">
     <img src="how_to_photos/final.jpg" width="500">
