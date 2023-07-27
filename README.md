@@ -321,12 +321,26 @@ Como se encuentra indicado en el diagrama de conexiones, es requerido realizar u
     <img src="resources/env_anaconda.png" width="500">
 </p>
 
-### Paso X - Titulo
+### Paso 4 - Cableado del switch
+
+En este paso se considera recomendable tanto el enrollar los cables en las terminales correspondientes del switch como también estañar estas conexiones para darles firmeza. A su vez, es importante medir aproximadamente las distancias del switch colocado en la estructura del balancio al Puente H y al BMS FCD-2S-2 con la finalidad de optimizar el uso de cables y espacio. 
+
 <p align="center">
     <img src="resources/env_anaconda.png" width="500">
 </p>
 
 
+### Paso 5 - Colocación del  módulo BMS FCD-2S-2
+
+Colocamos el módulo de carga y protección BMS en su lugar correspondiente dentro del cuerpo del balancio. Se recomienda que la inserción se realice desde un extremo hacia el costado correspondiente. 
+
+Podriamos agregar una foto
+
+### Paso 6 - Colocación de switch
+
+Procedemos a insertar el switch en la ranura correspondiente del la estructura del balancio, para luego realizar las conexiones correspondientes. Antes de tratar de unir el cable correspondiente del switch con la terminal P+ del BMS FCD-2S-2, se recomienda precalentar la terminal P+ con el soldador de estaño y estañar el cable antes de realizar la conexión. 
+
+### Paso 5 - Colocación de switch
 
 </details>  
 
