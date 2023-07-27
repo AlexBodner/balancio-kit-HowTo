@@ -315,9 +315,7 @@ En este paso insertamos la IMU en su ranura correspondiente, la cual se encuentr
 
 ### Paso 3 - Cableado de portabaterias
 
-Extendimos cable de portapilas y unimos el de atrás y el de adelante (acordarse de poner los portapilas uno mirando para cada lado).
-
-Como se encuentra indicado en el diagrama de conexiones, es requerido realizar un empalme entre el borne positivo de una de las pilas y el negativo de la otra, el cual luego se colocará en la terminal EM del componente (paso que se realizará más adelante). Para realizar este conexionado de forma efectiva, se requiere que ambos portapilas sean colocados dentro de la estructura del balancio para luego realizar el empalme descrito anteriormente en la parte inferior del cuerpo, teniendo cuidado de no disponer los cables de tal manera que los mismo se enreden con las ruedas cuando el dispositivo se encuentre el funcionamiento. Una vez realizado este paso, todos los cables referentes al conexionado de las baterías deben ser pasados por un orificio en la base de la estructura para poder continuar con el armado. 
+Como se encuentra indicado en el diagrama de conexiones, es requerido realizar un empalme entre el borne positivo de una de las pilas y el negativo de la otra, el cual luego se colocará en la terminal EM del componente (paso que se realizará más adelante). Para realizar este conexionado de forma efectiva, se requiere que ambos portapilas sean colocados dentro de la estructura del balancio para luego realizar el empalme descrito anteriormente en la parte inferior del cuerpo, teniendo cuidado de no disponer los cables de tal manera que los mismo se enreden con las ruedas cuando el dispositivo se encuentre el funcionamiento (también hay que colocar los servomotores como se ve en las imágenes para poder medir mejor las distancias) . Una vez realizado este paso, todos los cables referentes al conexionado de las baterías deben ser pasados por un orificio en la base de la estructura para poder continuar con el armado. 
 
 <p align="center">
     <img src="how_to_photos/imagen-Paso3.jpg" width="500">
