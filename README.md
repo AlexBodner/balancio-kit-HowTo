@@ -341,11 +341,6 @@ En este paso se considera recomendable tanto el enrollar los cables en las termi
     <img src="how_to_photos/imagen-Paso4.jpg" width="500">
 </p>
 
-<p align="center">
-    <img src="resources/env_anaconda.png" width="500">
-</p>
-
-
 ### Paso 5 - Colocación del  módulo BMS FCD-2S-2
 
 Colocamos el módulo de carga y protección BMS en su lugar correspondiente dentro del cuerpo del balancio. Se recomienda que la inserción se realice desde un extremo hacia el costado correspondiente. 
@@ -360,14 +355,18 @@ Procedemos a insertar el switch en la ranura correspondiente del la estructura d
     <img src="how_to_photos/imagen-Paso6.jpg" width="500">
 </p>
 
+<p align="center">
+    <img src="how_to_photos/diagrama-Paso 7.png" width="400">
+</p>
 
 ### Paso 7 - Conexiones entre BMS y portapilas
 
 Antes de tratar de unir el cable correspondiente de los portabaterías  con las terminales B+ y B- del BMS FCD-2S-2, se recomienda precalentar ambas terminales con el soldador de estaño y estañar los cables antes de realizar las conexiones.
 
 <p align="center">
-    <img src="how_to_photos/diagrama-Paso 7.png" width="400">
+    <img src="how_to_photos/imagen-Paso7.jpg" width="500">
 </p>
+
 
 ### Paso 8 - Titulo
 
