@@ -338,6 +338,10 @@ Como se encuentra indicado en el diagrama de conexiones, es requerido realizar u
 En este paso se considera recomendable tanto el enrollar los cables en las terminales correspondientes del switch como también estañar estas conexiones para darles firmeza. A su vez, es importante medir aproximadamente las distancias del switch colocado en la estructura del balancio al Puente H y al BMS FCD-2S-2 con la finalidad de optimizar el uso de cables y espacio. 
 
 <p align="center">
+    <img src="how_to_photos/imagen-Paso4.jpg" width="500">
+</p>
+
+<p align="center">
     <img src="resources/env_anaconda.png" width="500">
 </p>
 
@@ -351,6 +355,11 @@ Podriamos agregar una foto
 ### Paso 6 - Colocación de switch y conexiones con BMS
 
 Procedemos a insertar el switch en la ranura correspondiente del la estructura del balancio, para luego realizar las conexiones correspondientes. Antes de tratar de unir el cable correspondiente del switch con la terminal P+ del BMS FCD-2S-2, se recomienda precalentar la terminal P+ con el soldador de estaño y estañar el cable antes de realizar la conexión. 
+
+<p align="center">
+    <img src="how_to_photos/imagen-Paso6.jpg" width="500">
+</p>
+
 
 ### Paso 7 - Conexiones entre BMS y portapilas
 
