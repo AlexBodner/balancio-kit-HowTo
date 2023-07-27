@@ -345,7 +345,7 @@ Procedemos a insertar el switch en la ranura correspondiente del la estructura d
 Antes de tratar de unir el cable correspondiente de los portabaterías  con las terminales B+ y B- del BMS FCD-2S-2, se recomienda precalentar ambas terminales con el soldador de estaño y estañar los cables antes de realizar las conexiones.
 
 <p align="center">
-    <img src="how_to_photos/diagrama-Paso 7.png" >
+    <img src="how_to_photos/diagrama-Paso 7.png" width="400">
 </p>
 
 ### Paso 8 - Titulo
