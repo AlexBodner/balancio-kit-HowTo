@@ -285,7 +285,8 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 ---
 ## How To / Armado
 
-### Paso 1:
+1. **Step 1: Gather Materials**
+   
     Conectamos los cables al servo para después encajarlos y conectarlos. 
     
     ¿Cómo me doy cuenta para que lado tiene que mirar? Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y conectamos a izquierda el     
