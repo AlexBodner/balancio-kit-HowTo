@@ -353,7 +353,7 @@ Antes de tratar de unir el cable correspondiente de los portabaterías  con las 
 Texto
 
 <p align="center">
-    <img src="how_to_photos/diagrama-Paso 8.png" width="500">
+    <img src="how_to_photos/diagrama-Paso 8.png" width="600">
 </p>
 
 ### Paso 9 - Titulo
@@ -366,13 +366,13 @@ Texto
 Conexiones entre ESP y Puente H
 
 <p align="center">
-    <img src="how_to_photos/Paso10_ESP_Puente.png" width="800">
+    <img src="how_to_photos/Paso10_ESP_Puente.png" width="700">
 </p>
 
 Conexiones entre IMU y ESP
 
 <p align="center">
-    <img src="how_to_photos/Paso10_IMUESP.png" width="500">
+    <img src="how_to_photos/Paso10_IMUESP.png" width="700">
 </p>
 
 </details>  
