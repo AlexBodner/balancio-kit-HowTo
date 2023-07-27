@@ -336,11 +336,13 @@ Colocamos el módulo de carga y protección BMS en su lugar correspondiente dent
 
 Podriamos agregar una foto
 
-### Paso 6 - Colocación de switch
+### Paso 6 - Colocación de switch y conexiones con BMS
 
 Procedemos a insertar el switch en la ranura correspondiente del la estructura del balancio, para luego realizar las conexiones correspondientes. Antes de tratar de unir el cable correspondiente del switch con la terminal P+ del BMS FCD-2S-2, se recomienda precalentar la terminal P+ con el soldador de estaño y estañar el cable antes de realizar la conexión. 
 
-### Paso 5 - Colocación de switch
+### Paso 7 - Conexiones entre BMS y portapilas
+
+Antes de tratar de unir el cable correspondiente de los portabaterías  con las terminales B+ y B- del BMS FCD-2S-2, se recomienda precalentar ambas terminales con el soldador de estaño y estañar los cables antes de realizar las conexiones.
 
 </details>  
 
