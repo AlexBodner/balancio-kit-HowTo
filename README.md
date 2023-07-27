@@ -302,7 +302,7 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 <!-- Foto -->
 
 <p align="center">
-    <img src="how_to_photos/imagen-Paso1.png" width="600">
+    <img src="how_to_photos/imagen-Paso1.jpg" width="600">
 </p>
 
 ### Paso 2 - Servomotores al Puente H
