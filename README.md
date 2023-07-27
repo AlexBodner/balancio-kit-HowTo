@@ -380,17 +380,11 @@ Antes de tratar de unir el cable correspondiente de los portabaterías  con las 
 </p>
 
 
-### Paso 8 - Titulo
+### Paso 8 - Conexión BMS y Switch a Puente H
 
-Texto
+Ahora vamos a conectar donde corresponden los cables que quedaron sueltos. Estos son el P- del BMS y la conexión entre el Switch y el Puente H (12V).
 
-
-
-### Paso 9 - Titulo
-
-Texto
-
-### Paso 10 - Titulo
+### Paso 9- Titulo
 
 <p align="center">
     <img src="how_to_photos/final.jpg" width="500">
@@ -410,6 +404,7 @@ Conexiones entre IMU y ESP
 </p>
 
 </details>  
+
 
 ## TODO
 
