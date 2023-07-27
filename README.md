@@ -298,6 +298,12 @@ Conectamos los cables al servo para después encajarlos y conectarlos.
 positivo (rojo) y a derecha el negativo. 
 
 Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que estar por arriba del negro y del lado derecho al reves.
+<!-- Foto -->
+
+<p align="center">
+    <img src="resources/env_anaconda.png" width="500">
+</p>
+
 </details>  
 
 ## TODO
