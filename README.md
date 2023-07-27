@@ -311,7 +311,7 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
     <img src="resources/env_anaconda.png" width="500">
 </p>
 
-### Paso 3 - Titulo
+### Paso 3 - Cableado de portabaterias
 
 Extendimos cable de portapilas y unimos el de atrás y el de adelante (acordarse de poner los portapilas uno mirando para cada lado).
 
