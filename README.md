@@ -367,20 +367,24 @@ Antes de tratar de unir el cable correspondiente de los portabaterías  con las 
     <img src="how_to_photos/imagen-Paso7.jpg" width="500">
 </p>
 
+<p align="center">
+    <img src="how_to_photos/diagrama-Paso 8.png" width="600">
+</p>
 
 ### Paso 8 - Titulo
 
 Texto
 
-<p align="center">
-    <img src="how_to_photos/diagrama-Paso 8.png" width="600">
-</p>
 
 ### Paso 9 - Titulo
 
 Texto
 
 ### Paso 10 - Titulo
+
+<p align="center">
+    <img src="how_to_photos/final.jpg" width="500">
+</p>
 
 Texto
 Conexiones entre ESP y Puente H
