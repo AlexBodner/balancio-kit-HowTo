@@ -302,13 +302,13 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 <!-- Foto -->
 
 <p align="center">
-    <img src="resources/env_anaconda.png" width="500">
+    <img src="resources/env_anaconda.png" width="600">
 </p>
 
 ### Paso 2 - Servomotores al Puente H
 
 <p align="center">
-    <img src="how_to_photos/diagrama-Paso 2.png" width="500">
+    <img src="how_to_photos/diagrama-Paso 2.png" width="600">
 </p>
 
 ### Paso 3 - Cableado de portabaterias
