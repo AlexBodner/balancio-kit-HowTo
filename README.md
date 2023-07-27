@@ -284,9 +284,8 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 
 ---
 <details open>
+    
 ## How To / Armado
-
-
 
 ### Paso 1 
 
