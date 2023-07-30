@@ -295,7 +295,13 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 
 Soldamos los cables al servo para luego encajarlos y conectarlos. 
 
-¿Cómo me doy cuenta para que lado tiene que mirar? Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y conectamos a izquierda el     
+**¿Cuál es el largo de los cables?** 
+Para determinar esto vamos a insertar los servomotores en el cuerpo del Balancio y el Puente H como se ve en la imágen, luego,con el cable sin cortar, determinaremos donde hay que cortar para que llegue del borne del servomotor al puerto correspondiente del Puente H. Una vez que ya tengas los 4 cables con las medidas correctas retira los servomotores y el Puente H del cuerpo para trabajar cómodo.
+NO ME CIERRA LA REDACCION  
+FALTA IMAGEN
+
+**¿Cómo me doy cuenta para que lado tiene que mirar?** 
+Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y conectamos a izquierda el     
 positivo (rojo) y a derecha el negativo. 
 
 Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que estar por arriba del negro y del lado derecho al reves.
