@@ -293,7 +293,7 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 
 ### Paso 1 - Cables a los servomotores
 
-Conectamos los cables al servo para después encajarlos y conectarlos. 
+Soldamos los cables al servo para después encajarlos y conectarlos. 
 
 ¿Cómo me doy cuenta para que lado tiene que mirar? Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y conectamos a izquierda el     
 positivo (rojo) y a derecha el negativo. 
