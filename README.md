@@ -339,9 +339,9 @@ En este paso se considera recomendable tanto el enrollar los cables en las termi
 
 ### Paso 5 - Colocación del  módulo BMS FCD-2S-2
 
-Colocamos el módulo de carga y protección BMS en su lugar correspondiente dentro del cuerpo del balancio. Se recomienda que la inserción se realice desde un extremo hacia el costado correspondiente. 
+Colocamos el módulo de carga y protección BMS en su lugar correspondiente dentro del cuerpo del balancio. La inserción se debe realizar inclinando hacia atras el módulo BMS, apoyarlo sobre el soporte inferior y luego inclinarlo hacia adelante para que quede encastrado donde se puede ver en la imágen. (acá estaría bueno poner un GIF)
 
-Podriamos agregar una foto
+FALTA ALGUNA IMAGEN.
 
 ### Paso 6 - Colocación de switch y conexiones con BMS
 
@@ -389,7 +389,8 @@ Una vez insertados los servomotores y el puente H en sus lugares correspondiente
     <img src="how_to_photos/diagrama-Paso 2.png" width="600">
 </p>
 
-### Paso 10- Conexiones ESP32 a Puente H e IMU
+### Paso 10- Conexiones ESP32 a Puente H e IMU (Podria estar bueno marcar en las imagenes de la realidad lo mismo que marcamos en las fotos del plano)
+ 
 
 <p align="center">
     <img src="how_to_photos/final.jpg" width="500">
