@@ -291,9 +291,9 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 <summary>Pasos</summary>
 
 
-### Paso 1 - Cables a los servomotores
+### Paso 1 - Soldar cables a los servomotores
 
-Soldamos los cables al servo para después encajarlos y conectarlos. 
+Soldamos los cables al servo para luego encajarlos y conectarlos. 
 
 ¿Cómo me doy cuenta para que lado tiene que mirar? Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y conectamos a izquierda el     
 positivo (rojo) y a derecha el negativo. 
@@ -315,8 +315,9 @@ En este paso insertamos la IMU en su ranura correspondiente, la cual se encuentr
 
 ### Paso 3 - Cableado de portabaterias
 
-Como se encuentra indicado en el diagrama de conexiones, es requerido realizar un empalme entre el borne positivo de una de las pilas y el negativo de la otra, el cual luego se colocará en la terminal EM del componente (paso que se realizará más adelante). Para realizar este conexionado de forma efectiva, se requiere que ambos portapilas sean colocados dentro de la estructura del balancio para luego realizar el empalme descrito anteriormente en la parte inferior del cuerpo, teniendo cuidado de no disponer los cables de tal manera que los mismo se enreden con las ruedas cuando el dispositivo se encuentre el funcionamiento (también hay que colocar los servomotores como se ve en las imágenes para poder medir mejor las distancias) . Una vez realizado este paso, todos los cables referentes al conexionado de las baterías deben ser pasados por un orificio en la base de la estructura para poder continuar con el armado. 
+Como se encuentra indicado en el diagrama de conexiones, es requerido realizar un empalme entre el borne positivo de una de las pilas y el negativo de la otra, el cual luego se colocará en la terminal EM del componente (paso que se realizará más adelante). Para realizar este conexionado de forma efectiva, se requiere que ambos portapilas sean colocados dentro de la estructura del balancio para luego realizar el empalme descrito anteriormente en la parte inferior del cuerpo, teniendo cuidado de no disponer los cables de tal manera que los mismo se enreden con las ruedas cuando el dispositivo se encuentre el funcionamiento. Una vez realizado este paso, todos los cables referentes al conexionado de las baterías deben ser pasados por un orificio en la base de la estructura para poder continuar con el armado. 
 
+**Recomendación:** A la hora de cortar los cables necesarios para este paso, recomendamos colocar los servomotores en el cuerpo como se ve en las imágenes para poder medir de forma más precisa las distancias. 
 <p align="center">
     <img src="how_to_photos/imagen-Paso3.jpg" width="500">
 </p>
@@ -331,7 +332,7 @@ Como se encuentra indicado en el diagrama de conexiones, es requerido realizar u
 
 ### Paso 4 - Cableado del switch
 
-En este paso se considera recomendable tanto el enrollar los cables en las terminales correspondientes del switch como también estañar estas conexiones para darles firmeza. A su vez, es importante medir aproximadamente las distancias del switch colocado en la estructura del balancio al Puente H y al BMS FCD-2S-2 con la finalidad de optimizar el uso de cables y espacio. 
+En este paso se considera recomendable tanto el enrollar los cables en las terminales correspondientes del switch como también estañar estas conexiones para darles firmeza. A su vez, es importante medir aproximadamente las distancias del switch colocado en la estructura del balancio al Puente H y al BMS FCD-2S-2 con la finalidad de optimizar el uso de cables y espacio. Notemos que un cable va a ser muy corto para ser conectado al BMS y el otro tendrá que llegar hasta el puente H.
 
 <p align="center">
     <img src="how_to_photos/imagen-Paso4.jpg" width="500">
@@ -345,7 +346,7 @@ FALTA ALGUNA IMAGEN.
 
 ### Paso 6 - Colocación de switch y conexiones con BMS
 
-Procedemos a insertar el switch en la ranura correspondiente del la estructura del balancio, para luego realizar las conexiones correspondientes. Antes de tratar de unir el cable correspondiente del switch con la terminal P+ del BMS FCD-2S-2, se recomienda precalentar la terminal P+ con el soldador de estaño y estañar el cable antes de realizar la conexión. 
+Primero procedemos a insertar el switch en la ranura correspondiente del la estructura del balancio, para luego realizar las conexiones indicadas. Antes de tratar de unir el cable que une al switch con la terminal P+ del BMS FCD-2S-2, se recomienda precalentar la terminal P+ con el soldador de estaño y estañar el cable antes de realizar la conexión. 
 
 <p align="center">
     <img src="how_to_photos/imagen-Paso6.jpg" width="500">
@@ -356,7 +357,7 @@ Procedemos a insertar el switch en la ranura correspondiente del la estructura d
 
 ### Paso 7 - Conexiones entre BMS y portapilas
 
-Antes de tratar de unir el cable correspondiente de los portabaterías  con las terminales B+ y B- del BMS FCD-2S-2, se recomienda precalentar ambas terminales con el soldador de estaño y estañar los cables antes de realizar las conexiones.
+Antes de tratar de unir el cable correspondiente de los portabaterías con las terminales B+ y B- del BMS FCD-2S-2, se recomienda precalentar ambas terminales con el soldador de estaño y estañar los cables antes de realizar las conexiones.
 
 ***Observaciones:***
 - En violeta marcamos el cable que extendimos en el paso 3.
@@ -376,7 +377,7 @@ Antes de tratar de unir el cable correspondiente de los portabaterías  con las 
 
 Insertamos el puente H como se ve en la foto (con la parte negra hacia arriba) y vamos a conectar donde corresponden los cables que quedaron sueltos. Estos son el P- del BMS y la conexión entre el Switch y el Puente H (12V).
 
-### Paso 9 - Servomotores al Puente H
+### Paso 9 - Conexión de servomotores al Puente H
 
 Una vez insertados los servomotores y el puente H en sus lugares correspondientes dentro del cuerpo del balancio, procedemos a colocar los cables que colocamos anteriormente en los servomotores en las borneras correspondientes del puente H. 
 
