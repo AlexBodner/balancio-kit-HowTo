@@ -397,12 +397,12 @@ Una vez insertados los servomotores y el puente H en sus lugares correspondiente
 </p>
 
 ### Paso 10- Conexiones ESP32 a Puente H e IMU (Podria estar bueno marcar en las imagenes de la realidad lo mismo que marcamos en las fotos del plano)
- 
+ En este paso realizaremos las FALTA DESCRIPCION (TAL VEZ SEPARAR EN 2 PASOS)
 
 <p align="center">
     <img src="how_to_photos/final.jpg" width="500">
 </p>
-
+CAMBIAR POR FOTO MAS LINDA
 Texto
 Conexiones entre ESP y Puente H
 
