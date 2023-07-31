@@ -396,9 +396,11 @@ Una vez insertados los servomotores y el puente H en sus lugares correspondiente
     <img src="how_to_photos/diagrama-Paso 2.png" width="600">
 </p>
 
-### Paso 10- Conexiones ESP32 a Puente H e IMU (Podria estar bueno marcar en las imagenes de la realidad lo mismo que marcamos en las fotos del plano)
- En este paso realizaremos las FALTA DESCRIPCION (TAL VEZ SEPARAR EN 2 PASOS)
-
+### Paso 10 - Conexiones ESP32 a Puente H e IMU (Podria estar bueno marcar en las imagenes de la realidad lo mismo que marcamos en las fotos del plano)
+ En este paso realizaremos las conexiones del ESP32 al Puente H. Esta son indicadas en el plano a continuación. 
+ **Observaciones:**
+ - La conexión indicada en verde (puerto GND del Puente H) se trata de una con 2 cables que van hacia el GND del Puente H, uno de estos es un cable dupont, al cual tendremos que sacarle la punta y pelarlo. El otro proviene del BMS. Para poder conectar ambos al GND recomendamos soldarlos entre si y luego si conectarlos al GND.
+ - Se recomienda usar cables Dupont tanto para este paso como para el siguiente.
 <p align="center">
     <img src="how_to_photos/final.jpg" width="500">
 </p>
@@ -410,10 +412,10 @@ Conexiones entre ESP y Puente H
     <img src="how_to_photos/Paso10_ESP_Puente.png" width="700">
 </p>
 
-Conexiones entre IMU y ESP
-
+### Paso 11 - Conexiones ESP32 e IMU 
+En este paso realizaremos las últimas conexiones, estas conectan la IMU con el ESP32 y las realizaremos con cables Dupont. En el siguiente plano indicamos cuáles son los pines a conectar.
 <p align="center">
-    <img src="how_to_photos/Paso10_IMUESP.png" width="700">
+    <img src="how_to_photos/Paso10_IMU_ESP.png" width="700">
 </p>
 
 </details>  
