@@ -352,7 +352,8 @@ FALTA ALGUNA IMAGEN.
 
 ### Paso 6 - Colocación de switch y conexiones con BMS
 
-Primero procedemos a insertar el switch en la ranura correspondiente del la estructura del balancio, para luego realizar las conexiones indicadas. Antes de tratar de unir el cable que une al switch con la terminal P+ del BMS FCD-2S-2, se recomienda precalentar la terminal P+ con el soldador de estaño y estañar el cable antes de realizar la conexión. 
+Primero procedemos a insertar el switch en la ranura correspondiente del la estructura del balancio, para luego realizar las conexiones indicadas. \
+**Recomendación:** Antes de tratar de unir el cable que une al switch con la terminal P+ del BMS FCD-2S-2, se recomienda precalentar la terminal P+ con el soldador de estaño y estañar el cable antes de realizar la conexión. 
 
 <p align="center">
     <img src="how_to_photos/imagen-Paso6.jpg" width="500">
@@ -387,7 +388,7 @@ Insertamos el puente H como se ve en la foto (con la parte negra hacia arriba) y
 
 Una vez insertados los servomotores y el puente H en sus lugares correspondientes dentro del cuerpo del balancio, procedemos a colocar los cables que colocamos anteriormente en los servomotores en las borneras correspondientes del puente H. 
 
-***Observacion:*** En la foto el Puente H se encuentra al revés. La parte negra tiene que mirar para arriba. 
+***Observación:*** En la foto el Puente H se encuentra al revés. La parte negra tiene que mirar para arriba. 
 <p align="center">
     <img src="how_to_photos/imagen2-Paso1.jpg" width="500">
 </p>
