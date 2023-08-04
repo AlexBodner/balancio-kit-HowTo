@@ -355,7 +355,7 @@ Primero procedemos a insertar el switch en la ranura correspondiente del la estr
 **Recomendación:** Antes de tratar de unir el cable que une al switch con la terminal P+ del BMS FCD-2S-2, se recomienda precalentar la terminal P+ con el soldador de estaño y estañar el cable antes de realizar la conexión. 
 
 <p align="center">
-    <img src="how_to_photos/imagen-Paso6.jpg" width="500">
+    <img src="how_to_photos/imagen-Paso6.jpg" width="400">
 </p>
 <p align="center">
     <img src="how_to_photos/diagrama-Paso 7.png" width="400">
