@@ -296,14 +296,14 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 Soldamos los cables a los servomotores para luego encajarlos y conectarlos. 
 
 **¿Cuál es el largo de los cables?**  \
-Para determinar esto vamos a insertar los servomotores en el cuerpo del Balancio y el Puente H como se ve en la imágen, luego, determinaremos experimentalmente donde hay que cortar para que llegue del borne del servomotor al puerto correspondiente del Puente H. Una vez que ya tengas los 4 cables con las medidas correctas retira los servomotores y el Puente H del cuerpo para trabajar cómodo.
-FALTA IMAGEN
+Para determinar esto vamos a insertar los servomotores en el cuerpo del Balancio y el Puente H como se ve en la imágen. Luego determinaremos experimentalmente donde hay que cortar para que llegue del borne del servomotor al puerto correspondiente del Puente H. Una vez que ya tengas los 4 cables con las medidas correctas retira los servomotores y el Puente H del cuerpo para trabajar cómodo.
+**FALTA IMAGEN**
 
 **¿Cómo me doy cuenta para que lado tiene que mirar?**  \
 Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y conectamos a izquierda el     
-positivo (rojo) y a derecha el negativo. 
+positivo (rojo) y a derecha el negativo (negro). 
 
-Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que estar por arriba del negro y del lado derecho al reves.
+Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que estar por arriba del negro y del lado derecho al revés.
 
 <!-- Foto -->
 <p align="center">
@@ -313,14 +313,14 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 
 ### Paso 2 - Insertar IMU
 
-En este paso insertamos la IMU en su ranura correspondiente, la cual se encuentra en la parte inferior del cuerpo del Balancio. Marcamos esto en la imágen a continuación. Hay que insertarla deslizandola lateralmente, lo que puede resultar difícil en un principio, por lo que si no desliza recomendamos lijar la zona. 
+En este paso insertamos la IMU en su ranura correspondiente, la cual se encuentra en la parte inferior del cuerpo del Balancio. Marcamos esto en la imágen a continuación. Hay que insertarla deslizándola lateralmente, lo que puede resultar difícil en un principio, por lo que si no desliza recomendamos lijar la zona. 
 <p align="center">
     <img src="how_to_photos/IMU.png" height="600" >
 </p>
 
 ### Paso 3 - Cableado de portabaterias
 
-Como se encuentra indicado en el diagrama de conexiones, es requerido realizar un empalme entre el borne positivo de una de las pilas y el negativo de la otra, el cual luego se colocará en la terminal EM del componente (paso que se realizará más adelante). Para realizar este conexionado de forma efectiva, se requiere que ambos portapilas sean colocados dentro de la estructura del balancio para luego realizar el empalme descrito anteriormente en la parte inferior del cuerpo, teniendo cuidado de no disponer los cables de tal manera que los mismo se enreden con las ruedas cuando el dispositivo se encuentre el funcionamiento. Una vez realizado este paso, todos los cables referentes al conexionado de las baterías deben ser pasados por un orificio en la base de la estructura para poder continuar con el armado. 
+Como se encuentra indicado en el diagrama de conexiones, es requerido realizar un empalme entre el borne positivo de una de las pilas y el negativo de la otra, el cual luego se colocará en la terminal EM del componente (paso que se realizará más adelante). Para realizar este conexionado de forma efectiva, se requiere que ambos portapilas sean colocados dentro de la estructura del balancio para luego realizar el empalme descrito anteriormente, teniendo cuidado de no disponer los cables de tal manera que los mismos se enreden con las ruedas cuando el dispositivo se encuentre en funcionamiento. Una vez realizado este paso, todos los cables referentes al conexionado de las baterías deben ser pasados por un orificio en la base de la estructura para poder continuar con el armado. 
 
 **Recomendación:** A la hora de cortar los cables necesarios para este paso, recomendamos colocar los servomotores en el cuerpo como se ve en las imágenes para poder medir de forma más precisa las distancias. 
 <p align="center">
@@ -337,7 +337,7 @@ Como se encuentra indicado en el diagrama de conexiones, es requerido realizar u
 
 ### Paso 4 - Cableado del switch
 
-En este paso se considera recomendable tanto el enrollar los cables en las terminales correspondientes del switch como también estañar estas conexiones para darles firmeza. A su vez, es importante medir aproximadamente las distancias del switch colocado en la estructura del balancio al Puente H y al BMS FCD-2S-2 con la finalidad de optimizar el uso de cables y espacio. Notemos que un cable va a ser muy corto para ser conectado al BMS y el otro tendrá que llegar hasta el puente H.
+En este paso se considera recomendable tanto el enrollar los cables en las terminales correspondientes del switch, como también estañar estas conexiones para darles firmeza. A su vez, es importante medir aproximadamente las distancias del switch colocado en la estructura del balancio al Puente H y al BMS FCD-2S-2 con la finalidad de optimizar el uso de cables y espacio. Notemos que un cable va a ser muy corto para ser conectado al BMS y el otro tendrá que llegar hasta el puente H.
 
 <p align="center">
     <img src="how_to_photos/imagen-Paso4.jpg" height="400">
@@ -347,7 +347,6 @@ En este paso se considera recomendable tanto el enrollar los cables en las termi
 
 Colocamos el módulo de carga y protección BMS en su lugar correspondiente dentro del cuerpo del balancio. La inserción se debe realizar inclinando hacia atras el módulo BMS, apoyarlo sobre el soporte inferior y luego inclinarlo hacia adelante para que quede encastrado donde se puede ver en la imágen. (acá estaría bueno poner un GIF)
 
-FALTA ALGUNA IMAGEN.
 
 ### Paso 6 - Colocación de switch y conexiones con BMS
 
@@ -365,7 +364,7 @@ Antes de tratar de unir el cable correspondiente de los portabaterías con las t
 
 ***Observaciones:***
 - En violeta marcamos el cable que extendimos en el paso 3.
-- Recomendamos usar los cables Dupont para las conexiones al ESP e IMU. En este paso es la marcada en amarillo.
+- Recomendamos usar los cables Dupont para las conexiones al ESP e IMU. En este paso es la marcada en amarillo en la imágen a continuación.
 
 <p align="center">
     <img src="how_to_photos/imagen-Paso7.jpg" width="500">
@@ -379,13 +378,14 @@ Antes de tratar de unir el cable correspondiente de los portabaterías con las t
 
 ### Paso 8 - Conexión BMS y Switch a Puente H
 
-Insertamos el puente H como se ve en la foto (con la parte negra hacia arriba) y vamos a conectar donde corresponden los cables que quedaron sueltos. Estos son el P- del BMS y la conexión entre el Switch y el Puente H (12V).
+Insertamos el puente H como se ve en la foto (con la parte negra hacia arriba) y vamos a conectar donde corresponden los cables que quedaron sueltos de los pasos anteriores. Estos son el P- del BMS y la conexión entre el Switch y el Puente H (12V).
+**Falta imágen**
 
 ### Paso 9 - Conexión de servomotores al Puente H
 
 Una vez insertados los servomotores y el puente H en sus lugares correspondientes dentro del cuerpo del balancio, procedemos a colocar los cables que colocamos anteriormente en los servomotores en las borneras correspondientes del puente H. 
 
-***Observación:*** En la foto el Puente H se encuentra al revés. La parte negra tiene que mirar para arriba. 
+***Observación:*** En la foto el Puente H se encuentra al revés. La parte negra tiene que mirar para arriba. (Esto es a cambiar) 
 <p align="center">
     <img src="how_to_photos/imagen2-Paso1.jpg" width="500">
 </p>
@@ -394,15 +394,16 @@ Una vez insertados los servomotores y el puente H en sus lugares correspondiente
     <img src="how_to_photos/diagrama-Paso 2.png" width="600">
 </p>
 
-### Paso 10 - Conexiones ESP32 a Puente H e IMU (Podria estar bueno marcar en las imagenes de la realidad lo mismo que marcamos en las fotos del plano)
- En este paso realizaremos las conexiones del ESP32 al Puente H. Esta son indicadas en el plano a continuación. 
+### Paso 10 - Conexiones ESP32 a Puente
+ En este paso realizaremos las conexiones del ESP32 al Puente H. Esta son indicadas en el plano a continuación. \
  **Observaciones:**
  - La conexión indicada en verde (puerto GND del Puente H) se trata de una con 2 cables que van hacia el GND del Puente H, uno de estos es un cable dupont, al cual tendremos que sacarle la punta y pelarlo. El otro proviene del BMS. Para poder conectar ambos al GND recomendamos soldarlos entre si y luego si conectarlos al GND.
- - Se recomienda usar cables Dupont tanto para este paso como para el siguiente.
+ - Se recomienda usar cables Dupont tanto para este paso como para el siguiente. Exceptuando la señalada en rojo que para tener una mayor firmeza se puede realizar soldando a lo largo del pin del ESP.
+ - 
 <p align="center">
     <img src="how_to_photos/final.jpg" width="500">
 </p>
-CAMBIAR POR FOTO MAS LINDA
+(CAMBIAR POR FOTO MAS LINDA)
 
 
 <p align="center">
