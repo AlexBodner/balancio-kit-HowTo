@@ -356,7 +356,7 @@ Primero procedemos a insertar el switch en la ranura correspondiente del la estr
 
 <p align="center">
     <img src="how_to_photos/imagen-Paso6.jpg"  width="400">
-    <img src="how_to_photos/diagrama-Paso 7.png" >
+    <img src="how_to_photos/diagrama-Paso 7.png" width="400">
 </p>
 
 ### Paso 7 - Conexiones entre BMS y portapilas
