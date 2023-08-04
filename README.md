@@ -293,7 +293,6 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 
 ### Paso 1 - Soldar cables a los servomotores
 
-<p align="center">
 Soldamos los cables a los servomotores para luego encajarlos y conectarlos. 
 
 **¿Cuál es el largo de los cables?**  \
@@ -306,11 +305,10 @@ Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y cone
 positivo (rojo) y a derecha el negativo. 
 
 Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que estar por arriba del negro y del lado derecho al reves.
-<!-- Foto -->
 
+<!-- Foto -->
 <p align="center">
     <img src="how_to_photos/imagen-Paso1.jpg" width="500">
-</p>
 </p>
 
 
@@ -318,7 +316,7 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 
 En este paso insertamos la IMU en su ranura correspondiente, la cual se encuentra en la parte inferior del cuerpo del Balancio. Marcamos esto en la imágen a continuación. Hay que insertarla deslizandola lateralmente, lo que puede resultar difícil en un principio, por lo que si no desliza recomendamos lijar la zona. 
 <p align="center">
-    <img src="how_to_photos/IMU.png" width="500">
+    <img src="how_to_photos/IMU.png" height="900">
 </p>
 
 ### Paso 3 - Cableado de portabaterias
