@@ -403,8 +403,7 @@ Una vez insertados los servomotores y el puente H en sus lugares correspondiente
     <img src="how_to_photos/final.jpg" width="500">
 </p>
 CAMBIAR POR FOTO MAS LINDA
-Texto
-Conexiones entre ESP y Puente H
+
 
 <p align="center">
     <img src="how_to_photos/Paso10_ESP_Puente.png" width="700">
