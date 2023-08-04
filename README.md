@@ -316,7 +316,7 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 
 En este paso insertamos la IMU en su ranura correspondiente, la cual se encuentra en la parte inferior del cuerpo del Balancio. Marcamos esto en la imágen a continuación. Hay que insertarla deslizandola lateralmente, lo que puede resultar difícil en un principio, por lo que si no desliza recomendamos lijar la zona. 
 <p align="center">
-    <img src="how_to_photos/IMU.png" height="700">
+    <img src="how_to_photos/IMU.png" height="600" width ="500">
 </p>
 
 ### Paso 3 - Cableado de portabaterias
