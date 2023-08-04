@@ -296,8 +296,7 @@ En caso de querer utilzar un agente de aprendizaje por refuerzo:
 Soldamos los cables a los servomotores para luego encajarlos y conectarlos. 
 
 **¿Cuál es el largo de los cables?**  \
-Para determinar esto vamos a insertar los servomotores en el cuerpo del Balancio y el Puente H como se ve en la imágen, luego,con el cable sin cortar, determinaremos donde hay que cortar para que llegue del borne del servomotor al puerto correspondiente del Puente H. Una vez que ya tengas los 4 cables con las medidas correctas retira los servomotores y el Puente H del cuerpo para trabajar cómodo.
-NO ME CIERRA LA REDACCION  
+Para determinar esto vamos a insertar los servomotores en el cuerpo del Balancio y el Puente H como se ve en la imágen, luego, determinaremos experimentalmente donde hay que cortar para que llegue del borne del servomotor al puerto correspondiente del Puente H. Una vez que ya tengas los 4 cables con las medidas correctas retira los servomotores y el Puente H del cuerpo para trabajar cómodo.
 FALTA IMAGEN
 
 **¿Cómo me doy cuenta para que lado tiene que mirar?**  \
@@ -316,7 +315,7 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 
 En este paso insertamos la IMU en su ranura correspondiente, la cual se encuentra en la parte inferior del cuerpo del Balancio. Marcamos esto en la imágen a continuación. Hay que insertarla deslizandola lateralmente, lo que puede resultar difícil en un principio, por lo que si no desliza recomendamos lijar la zona. 
 <p align="center">
-    <img src="how_to_photos/IMU.png" height="600" width ="500">
+    <img src="how_to_photos/IMU.png" height="400" width ="500">
 </p>
 
 ### Paso 3 - Cableado de portabaterias
