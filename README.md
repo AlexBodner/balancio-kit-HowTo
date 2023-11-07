@@ -297,7 +297,6 @@ Soldamos los cables a los servomotores para luego encajarlos y conectarlos.
 
 **¿Cuál es el largo de los cables?**  \
 Para determinar esto vamos a insertar los servomotores en el cuerpo del Balancio y el Puente H como se ve en la imágen. Luego determinaremos experimentalmente donde hay que cortar para que llegue del borne del servomotor al puerto correspondiente del Puente H. Una vez que ya tengas los 4 cables con las medidas correctas retira los servomotores y el Puente H del cuerpo para trabajar cómodo.
-**FALTA IMAGEN**
 
 **¿Cómo me doy cuenta para que lado tiene que mirar?**  \
 Como se ve en la primera foto, hacemos que las patitas miren hacia arriba y conectamos a izquierda el     
@@ -307,7 +306,7 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 
 <!-- Foto -->
 <p align="center">
-    <img src="how_to_photos/imagen-Paso1.jpg" width="500">
+    <img src="how_to_photos/servos.jpg" width="500">
 </p>
 
 
