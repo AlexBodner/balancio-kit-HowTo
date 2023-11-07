@@ -306,7 +306,7 @@ Cuando lo insertamos en el cuerpo, del lado izquierdo el cable rojo tiene que es
 
 <!-- Foto -->
 <p align="center">
-    <img src="how_to_photos/servos.jpg" width="500">
+    <img src="how_to_photos/servos.jpg" width="400">
 </p>
 
 
