@@ -1,3 +1,6 @@
+
+
+
 # Balancio-Kit
 
 [![license_MIT](https://img.shields.io/github/license/udesa-ai/balancio-kit)](https://github.com/udesa-ai/balancio-kit/blob/main/LICENSE)
@@ -345,6 +348,8 @@ En este paso se considera recomendable tanto el enrollar los cables en las termi
 ### Paso 5 - Colocación del  módulo BMS FCD-2S-2
 
 Colocamos el módulo de carga y protección BMS en su lugar correspondiente dentro del cuerpo del balancio. La inserción se debe realizar inclinando hacia atras el módulo BMS, apoyarlo sobre el soporte inferior y luego inclinarlo hacia adelante para que quede encastrado donde se puede ver en la imágen. 
+
+https://github.com/AlexBodner/balancio-kit-HowTo/assets/61150961/538d2bf4-75f0-46c5-89c6-0aa253f4f102
 
 <video src="https://github.com/AlexBodner/balancio-kit-HowTo/tree/main/how_to_photos/Insercion_BMS.mp4"></video>
 ### Paso 6 - Colocación de switch y conexiones con BMS
