@@ -404,10 +404,8 @@ Una vez insertados los servomotores y el puente H en sus lugares correspondiente
  - La conexión indicada en verde (puerto GND del Puente H) se trata de una con 2 cables que van hacia el GND del Puente H, uno de estos es un cable dupont, al cual tendremos que sacarle la punta y pelarlo. El otro proviene del BMS. Para poder conectar ambos al GND recomendamos soldarlos entre si y luego si conectarlos al GND.
  - Se recomienda usar cables Dupont tanto para este paso como para el siguiente. Exceptuando la señalada en rojo que para tener una mayor firmeza se puede realizar soldando a lo largo del pin del ESP.
  - 
-<p align="center">
-    <img src="how_to_photos/final.jpg" width="500">
-</p>
-(CAMBIAR POR FOTO MAS LINDA)
+
+
 
 
 <p align="center">
@@ -422,7 +420,9 @@ En este paso realizaremos las últimas conexiones, estas conectan la IMU con el 
 
 </details>  
 
+Agregar foto del cableado trasero
 
+Agregar una foto/gif linda del balancio 
 ## TODO
 
 - [x] initial commit
