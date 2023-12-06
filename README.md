@@ -420,9 +420,6 @@ En este paso realizaremos las últimas conexiones, estas conectan la IMU con el 
 
 </details>  
 
-Agregar foto del cableado trasero
-
-Agregar una foto/gif linda del balancio 
 ## TODO
 
 - [x] initial commit
